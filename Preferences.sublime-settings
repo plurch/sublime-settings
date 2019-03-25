@@ -1,6 +1,9 @@
 {
 	"draw_indent_guides": false,
+  "mini_diff": false,
 	"font_size": 14,
+  "folded_buttons": false,
+  "margin": 10,
 	"ignored_packages":
 	[
 		"Vintage"
